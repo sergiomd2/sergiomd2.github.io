@@ -200,3 +200,7 @@ h1 {
     width: 50%;
     padding: 15px;
 }
+    
+video{
+    z-index: 1;
+}
